@@ -55,12 +55,7 @@ for(int t=0;t<WList.size(); t++){
 
 }
 
-//        for(int j=0;j<10;j++){
-//            if (pBoard[j][1].isAlive==true) {
-//                System.out.println(pBoard[j][1].xpos);
-//                columns[1]++;
-//            }
-//        }
+
 
         /***
          * This code will run each time the "MyPlayer" button is pressed.
